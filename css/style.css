@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+header{
+	background-color: #87509c;
+	padding: 121px 0px;
+	background-size: cover;
+}
+.banner-section1{
+	width: 45%;
+	float: left;
+}
+.banner-section1 h2{
+
+}
+.banner-section1 p{
+
+}
+.nav ul{
+
+}
+.nav ul li{
+
+}
+.button1{
+
+}
+.banner-section2{
+	width: 45%
+	float:left;
+}
+.small-banner{
+	width: 650px
+	background-color:blue;
+}
